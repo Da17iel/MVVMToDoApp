@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Navigation;
 
-namespace MVVMTodo.ViewModels
+namespace MVVMToDoApp.ViewModels
 {
     public class SharedDataViewModel : ViewModelBase
     {

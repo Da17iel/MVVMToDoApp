@@ -1,4 +1,4 @@
-﻿using MVVMTodo.Commands;
+﻿using MVVMToDoApp.Commands;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
-namespace MVVMTodo.ViewModels
+namespace MVVMToDoApp.ViewModels
 {
     public class ShowAndCreateViewModel : ViewModelBase
     {

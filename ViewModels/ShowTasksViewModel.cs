@@ -4,9 +4,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MVVMTodo.Models;
+using MVVMToDoApp.Models;
 
-namespace MVVMTodo.ViewModels
+namespace MVVMToDoApp.ViewModels
 {
     public class ShowTasksViewModel : ViewModelBase
     {

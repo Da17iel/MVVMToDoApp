@@ -1,8 +1,8 @@
-﻿using MVVMTodo.ViewModels;
+﻿using MVVMToDoApp.ViewModels;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace MVVMTodo.Views
+namespace MVVMToDoApp.Views
 {
     /// <summary>
     /// Interaktionslogik für CreateTask.xaml

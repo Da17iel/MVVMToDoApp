@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVVMTodo.ViewModels
+namespace MVVMToDoApp.ViewModels
 {
     /// <summary>
     /// Added ViewModelBase so that we don't have to implement this function in every ViewModel

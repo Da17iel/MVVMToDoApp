@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVVMTodo.Models
+namespace MVVMToDoApp.Models
 {
     public enum TaskStatus
     {

@@ -1,11 +1,11 @@
-﻿using MVVMTodo.Views;
+﻿using MVVMToDoApp.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVVMTodo.Models
+namespace MVVMToDoApp.Models
 {
     public class Task
     {

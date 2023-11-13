@@ -1,4 +1,4 @@
-﻿using MVVMTodo.ViewModels;
+﻿using MVVMToDoApp.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
-namespace MVVMTodo.Commands
+namespace MVVMToDoApp.Commands
 {
     public class AddTaskCommand : CommandBase
     {

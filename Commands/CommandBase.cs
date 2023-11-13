@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace MVVMTodo.Commands
+namespace MVVMToDoApp.Commands
 {
     public abstract class CommandBase : ICommand
     {
